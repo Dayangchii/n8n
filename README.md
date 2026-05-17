@@ -1,3 +1,13 @@
 PROJECT #1 autonomous-ai-email-agent-with-semantic-memory
 
-Workflow Automation: Orchestrated a production-ready workflow using n8n to handle real-time chat message triggers and automate outgoing email dispatch.AI Integration: Integrated Google Gemini Chat Model to analyze incoming prompts, execute decision-making logic, and generate natural language responses.Context Retention: Implemented a Simple Memory sub-system to empower the AI agent with semantic retention, ensuring consistent conversation history across executions.API Delivery: Connected seamlessly with the Gmail API to automate professional email messaging without human intervention.
+Workflow Automation
+Orchestrated a production-ready workflow using n8n to handle real-time chat message triggers and automate outgoing email dispatch.
+
+AI Integration
+Integrated Google Gemini Chat Model to analyze incoming prompts, execute decision-making logic, and generate natural language responses.
+
+Context Retention
+Implemented a Simple Memory sub-system to empower the AI agent with semantic retention, ensuring consistent conversation history across executions.
+
+API Delivery
+Connected seamlessly with the Gmail API to automate professional email messaging without human intervention.
